@@ -1,2 +1,0 @@
-# Defines what type the project is. library (lib) or executable (exe)
-proj_type = lib

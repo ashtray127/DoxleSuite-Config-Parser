@@ -14,4 +14,3 @@ Comments are made with the '#' character. They can be a whole line or at the end
 
     - `get_key(std::string key)` - This will get a specific key from the config folder, returns a std::string.
     - `get_all()` - Returns a vector containing structs, where you can access each options key and value.
-
